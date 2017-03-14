@@ -10,3 +10,6 @@ D:\Projects\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesMan
 D:\Projects\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.csproj.GenerateResource.Cache
 D:\Projects\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.exe
 D:\Projects\PersonalNotesManager\PersonalNotesManager\obj\Debug\PersonalNotesManager.pdb
+D:\OS\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe.config
+D:\OS\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.exe
+D:\OS\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.pdb
