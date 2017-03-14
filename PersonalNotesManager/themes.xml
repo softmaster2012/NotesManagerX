@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <theme category="Personal" name="Vocation"/>
+  <theme category="Personal" name="Hoby"/>
+  <theme category="Personal" name="Movies"/>
+  
+  <theme category="Family" name="Birthday's"/>
+  <theme category="Family" name="Home"/>
+  <theme category="Family" name="GoodsList"/>
+  
+  <theme category="Friends" name="Holiday"/>
+  <theme category="Friends" name="Sport"/>
+  <theme category="Friends" name="Stories"/>
+  
+  <theme category="Job" name="Plans"/>
+  <theme category="Job" name="Calendar"/>
+  <theme category="Job" name="Projects"/>
+  
+  <theme category="Hoby" name="Sports"/>
+  <theme category="Hoby" name="NesEq"/>
+  <theme category="Hoby" name="Music"/>
+
+</root>
