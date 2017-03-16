@@ -53,5 +53,10 @@ namespace PersonalNotesManager
             textBox1.Clear();
             textBox2.Clear();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
