@@ -41,9 +41,9 @@ namespace PersonalNotesManager
             else
             {
                 MessageBox.Show("Авторизация пройдена", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                Form2 f2 = new Form2();
+                Form2 f2 = new Form2(this);
                 f2.Show();
-                
+                this.Hide();
             }
 
         }
