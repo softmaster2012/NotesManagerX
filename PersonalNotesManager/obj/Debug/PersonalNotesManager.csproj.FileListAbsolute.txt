@@ -16,3 +16,15 @@ D:\OS\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.pdb
 D:\New\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe.config
 D:\New\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.exe
 D:\New\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.pdb
+D:\OS\new\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe.config
+D:\OS\new\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.exe
+D:\OS\new\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.pdb
+D:\OS\new\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe
+D:\OS\new\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.pdb
+D:\OS\new\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.csprojResolveAssemblyReference.cache
+D:\OS\new\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form1.resources
+D:\OS\new\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form2.resources
+D:\OS\new\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form3.resources
+D:\OS\new\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form4.resources
+D:\OS\new\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Properties.Resources.resources
+D:\OS\new\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.csproj.GenerateResource.Cache

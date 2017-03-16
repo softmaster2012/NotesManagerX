@@ -33,7 +33,18 @@ namespace PersonalNotesManager
             var res = from x in doc.Element("root").Elements("account")
                       where x.Attribute("login").Value == Login && x.Attribute("passw").Value == Passw
                       select x;
-
+            int n = res.Count();
+            if (n == 0)
+            {
+                MessageBox.Show("Авторизацыя не пройдена", "", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                MessageBox.Show("Авторизация пройдена", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                Form2 f2 = new Form2();
+                f2.Show();
+                
+            }
 
         }
 
