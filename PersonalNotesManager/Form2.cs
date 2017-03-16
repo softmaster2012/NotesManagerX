@@ -48,5 +48,17 @@ namespace PersonalNotesManager
         {
             X.Close();
         }
+
+        private void categoriesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form3 f3=new Form3();
+            f3.Show();
+        }
+
+        private void themesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form4 f4 = new Form4();
+            f4.Show();
+        }
     }
 }
