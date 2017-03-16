@@ -37,3 +37,14 @@ D:\New\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Propert
 D:\New\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.csproj.GenerateResource.Cache
 D:\New\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe
 D:\New\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.pdb
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe.config
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.exe
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.pdb
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.exe
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\bin\Debug\PersonalNotesManager.pdb
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form1.resources
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form2.resources
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form3.resources
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Form4.resources
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.Properties.Resources.resources
+D:\Lutsenko\GitCop2\NotesManagerX\PersonalNotesManager\obj\Debug\PersonalNotesManager.csproj.GenerateResource.Cache
