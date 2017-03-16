@@ -108,6 +108,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="accounts.xml" />
     <Content Include="categories.xml" />
     <Content Include="notes.xml" />
     <Content Include="themes.xml" />
